@@ -1,0 +1,28 @@
+[
+ 	{
+ 	  "id": 123,
+      "name": "James Mutyaba",
+      "last_payment_amount": 200000,
+      "last_payment_date": "23/03/2020",
+      "amount_owed": 400000,
+      "account_status": "suspended"
+ 	},
+
+  	{
+ 	  "id": 124,
+      "name": "Andrew Kavuma",
+      "last_payment_amount": 100000,
+      "last_payment_date": "23/05/2020",
+      "amount_owed": 0,
+      "account_status": "ok"
+ 	},
+
+ 	{
+ 	  "id": 125,
+      "name": "Peter Asiimwe",
+      "last_payment_amount": 150000,
+      "last_payment_date": "23/05/2020",
+      "amount_owed": 0,
+      "account_status": "ok"
+ 	}
+]
